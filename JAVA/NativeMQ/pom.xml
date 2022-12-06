@@ -16,7 +16,7 @@
         <mysql.version>8.0.17</mysql.version>
         <lombok.version>1.18.8</lombok.version>
         <junit.version>4.12</junit.version>
-        <commons-net.version>3.6</commons-net.version>
+        <commons-net.version>3.9.0</commons-net.version>
     </properties>
 
     <dependencies>
